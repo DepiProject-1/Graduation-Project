@@ -2,7 +2,7 @@
 UI/UX design project for a [Travel App] created using Figma as part of the DEPI graduation project.
 # 📎 Project Name : Travel App
 ---
-## 📌 Project Overview : *Egypt Travel is a travel discovery and booking platform designed to help users explore Egypt, discover destinations and attractions based on their interests, plan personalized trips, and book travel services*.
+## 📌 Project Overview : Egypt Travel is a travel discovery and booking platform designed to help users explore Egypt, discover destinations and attractions based on their interests, plan personalized trips, and book travel services.
 ---
 ### 👥 Team Members : Martina Ashraf Lotfy | Karin Ashraf | Youliana Ashraf Ghobrial | NoorElhoda Mostafa Mohamed | Sarah Ahmed Elsaka | Rawda Mohamed Habka
 ---
